@@ -1,0 +1,41 @@
+*{
+	margin:0;
+	padding:0;
+}
+.sample{
+	background-image:url("../images/bg.jpg");
+	background-size:cover;
+	background-repeat:no-repeat;
+	padding:90px 100px;
+	
+}
+.text-box{
+	max-width: 600px;
+	/*----font-family:"Dosis", sans-serif;*/
+	font-family: 'Poppins', sans-serif;
+	padding-top:70px;
+	padding-left:10px;
+}
+.text-box h1{
+	font-size:35px;
+	color:#0f394c;
+}
+.text-box p{
+	color:#1c698c;
+	padding-top:20px;
+	font-size: 15px 0 0 0;
+}
+.button {
+	padding-top:7%;
+}
+.a {
+	background:#49b5e7;
+	border:none;
+	border-radius:6%;
+	padding-top:2%;
+	padding-right:6%;
+	padding-left:6%;
+	padding-bottom:2%;
+	text-transform:uppercase;
+	color:white;
+}
